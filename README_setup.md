@@ -14,3 +14,9 @@ gh repo create cvstebut/catalog-service --public
 cd m:\data\dev
 git clone https://github.com/cvstebut/catalog-service
 ```
+
+![Project Generation using Sprint Initializr](<images/start_sprint_io_project generation.png>)
+
+- Generate
+- Extract downloaded zip file into project folder
+- git commit & push
